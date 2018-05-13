@@ -464,3 +464,11 @@ The output of `mdb_stat -ea <path to blockchain dir>` will indicate inconsistenc
 The output of `mdb_dump -s blocks <path to blockchain dir>` and `mdb_dump -s block_info <path to blockchain dir>` is useful for indicating whether blocks and block_info contain the same keys.
 
 These records are dumped as hex data, where the first line is the key and the second line is the data.
+
+### Donate me:
+#### Haven:
+hvxyGkGVn8dHnuY2h1PMJBYm2RPuyAuKrASndHfBVe4kU6yU2Rt9QU1FT8QBbf9pDoLcmLuefuxp95cF7M5t1f8x3KNCbeqrgi
+#### Monero:
+484m3WHUFBRXbM2xtgxEdYFsjykxf2Mj6EnNfheCpnE53dEXmFYrWNiiXbrC6oEKqT6kumgzoPVJvUjW6PPGhpUpFWdQsfK
+#### Bitcoin:
+1HioM2usJjx7k3VgQwg1ijwz7CPkt4ZWzH
